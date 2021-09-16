@@ -1,0 +1,4 @@
+Commonly used Kubernetes commands
+kubectl get nodes- Get list of nodes.
+Use -o wide to see more details.
+Use --show-labels to see the labels
